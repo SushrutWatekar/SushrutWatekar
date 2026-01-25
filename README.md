@@ -14,9 +14,9 @@ I’m particularly interested in:
 
 I’m currently experimenting with LLM-based systems, including
 retrieval-augmented generation (RAG), vector databases, and integrating
-AI components into backend architectures.
+AI components into system architectures.
 
-My focus is on building reliable AI-enabled services, improving
+My focus is on building reliable AI-enabled services by improving
 retrieval strategies, using structured outputs, and evaluating LLM
 responses as part of end-to-end system design.
 
