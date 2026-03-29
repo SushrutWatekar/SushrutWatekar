@@ -1,24 +1,30 @@
-## Hi, I’m Sushrut 
+## Hi, I’m Sushrut
 
-Welcome to my personal code library; a place where things don’t always
-start perfect, but usually end up working better than they did before.
+This is my personal code library, a place where systems are built, tested, and continuously refined.
 
-I’m a software developer with experience building backend systems in
-Java and Python, including REST APIs, microservices, and database-backed
-applications.
+I work on backend systems in Java and Python, designing APIs, services, and data-driven applications with a focus on clarity and long-term maintainability. I aim to write code that explains itself, evolves safely, and stays simple even as systems grow in complexity.
 
-I’m particularly interested in:
-- Backend and distributed systems
-- Data structures and concurrency
-- Applying LLMs to real system workflows (policy engines, APIs, simulators)
+My interests lie in distributed systems, concurrency, and the structure of reliable software. More recently, I’ve been exploring how LLMs can be integrated into real-world systems, not as isolated features, but as components within well-defined architectures.
 
-I’m currently experimenting with LLM-based systems, including
-retrieval-augmented generation (RAG), vector databases, and integrating
-AI components into system architectures.
+I’m particularly focused on building AI-enabled services that are predictable and measurable: improving retrieval (RAG), using structured outputs, and treating model behavior as something that can be evaluated and engineered; not just observed.
 
-My focus is on building reliable AI-enabled services by improving
-retrieval strategies, using structured outputs, and evaluating LLM
-responses as part of end-to-end system design.
+This repository reflects that mindset: a mix of production-style systems and experimental prototypes, all driven by the same goal: write code that is clean, intentional, and built to last.
 
-This profile contains a mix of production-style backend projects and
-research-driven system prototypes. Selected projects are pinned below.
+---
+
+### Focus Areas
+- Backend & Distributed Systems  
+- Data Structures & Concurrency  
+- LLM Systems (RAG, APIs, Policy Engines)
+
+---
+
+### Principles
+- Clarity over cleverness  
+- Simplicity over complexity  
+- Readability over brevity  
+- Systems that evolve safely over time  
+
+---
+
+_“Clean code is not written by following a set of rules. It is written by developers who care.”_
