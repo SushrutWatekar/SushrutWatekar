@@ -1,30 +1,37 @@
-## Hi, I’m Sushrut
+# Hi, I’m Sushrut
 
-This is my personal code library, a place where systems are built, tested, and continuously refined.
+This is my personal code library, a place where systems are designed, tested, broken, rebuilt, and continuously refined.
 
-I work on backend systems in Java and Python, designing APIs, services, and data-driven applications with a focus on clarity and long-term maintainability. I aim to write code that explains itself, evolves safely, and stays simple even as systems grow in complexity.
+I work primarily on backend systems in Java and Python, building APIs, distributed services, and data-driven applications with a focus on reliability, clarity, and long-term maintainability.
 
-My interests lie in distributed systems, concurrency, and the structure of reliable software. More recently, I’ve been exploring how LLMs can be integrated into real-world systems, not as isolated features, but as components within well-defined architectures.
+My interests lie in distributed systems, concurrency, scalable backend architecture, and the engineering decisions that make software resilient as complexity grows.
 
-I’m particularly focused on building AI-enabled services that are predictable and measurable: improving retrieval (RAG), using structured outputs, and treating model behavior as something that can be evaluated and engineered; not just observed.
+More recently, I’ve been exploring how LLMs can be integrated into real-world systems, not as isolated features, but as components within structured and observable architectures. I’m particularly interested in building AI-enabled systems that are measurable and reliable through techniques like RAG pipelines, structured outputs, evaluation frameworks, and policy-driven workflows.
 
-This repository reflects that mindset: a mix of production-style systems and experimental prototypes, all driven by the same goal: write code that is clean, intentional, and built to last.
+Most of the projects here reflect that mindset: production-style systems, experimental prototypes, and engineering exercises built with the same goal in mind:
 
----
-
-### Focus Areas
-- Backend & Distributed Systems  
-- Data Structures & Concurrency  
-- LLM Systems (RAG, APIs, Policy Engines)
+> Write software that remains understandable, maintainable, and reliable over time.
 
 ---
 
-### Principles
-- Clarity over cleverness  
-- Simplicity over complexity  
-- Readability over brevity  
-- Systems that evolve safely over time  
+## Focus Areas
+
+- Backend Engineering & Distributed Systems
+- Concurrency & System Design
+- APIs & Microservices
+- LLM Systems (RAG, Tooling, Policy Engines)
+- Data Structures & Performance Optimization
 
 ---
 
-_“Clean code is not written by following a set of rules. It is written by developers who care.”_
+## Currently Exploring
+
+- Event-driven backend architectures
+- Retrieval pipelines and evaluation for LLM systems
+- Java concurrency and distributed messaging systems
+- System design patterns and scalable APIs
+
+---
+
+> “Clean code is not written by following rules. It is written by programmers who care.”  
+> — Robert C. Martin
